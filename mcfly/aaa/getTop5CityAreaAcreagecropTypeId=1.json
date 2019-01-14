@@ -1,0 +1,42 @@
+{
+  "message" : "≤È—Ø≥…π¶",
+  "data" : [ {
+    "cityName" : "Panjin",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    } ],
+    "cityTotalAcreage" : 17625
+  }, {
+    "cityName" : "Jingzhou",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    } ],
+    "cityTotalAcreage" : 13327
+  }, {
+    "cityName" : "Sihong",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    } ],
+    "cityTotalAcreage" : 9210
+  }, {
+    "cityName" : "Jinzhou",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    } ],
+    "cityTotalAcreage" : 9291
+  }, {
+    "cityName" : "Wuhan",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    } ],
+    "cityTotalAcreage" : 7364
+  } ],
+  "code" : 10000
+}
+
+

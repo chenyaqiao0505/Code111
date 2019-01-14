@@ -1,0 +1,124 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/order/getOrderCountryAndCustomer
+{
+  "province" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "orderAllCount" : 3136,
+    "orderCompleteCount" : 1210,
+    "monthAllCount" : 479,
+    "monthCompleteCount" : 161,
+    "rankListType" : "省"
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "orderAllCount" : 3035,
+    "orderCompleteCount" : 1084,
+    "monthAllCount" : 466,
+    "monthCompleteCount" : 156,
+    "rankListType" : "省"
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "orderAllCount" : 3234,
+    "orderCompleteCount" : 1435,
+    "monthAllCount" : 495,
+    "monthCompleteCount" : 168,
+    "rankListType" : "省"
+  } ],
+  "china" : [ {
+    "country" : "whole country",
+    "latitude" : null,
+    "longitude" : null,
+    "orderAllCount" : 9405,
+    "orderCompleteCount" : 3729,
+    "monthAllCount" : 1440,
+    "monthCompleteCount" : 485,
+    "rankListType" : "whole country"
+  } ],
+  "city" : [ {
+    "country" : "Suqian",
+    "latitude" : 33.95204973370865,
+    "longitude" : 118.29689337855334,
+    "orderAllCount" : 1048,
+    "orderCompleteCount" : 286,
+    "monthAllCount" : 88,
+    "monthCompleteCount" : 29,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Jinhua",
+    "latitude" : 29.10289910539069,
+    "longitude" : 119.65257570368145,
+    "orderAllCount" : 986,
+    "orderCompleteCount" : 276,
+    "monthAllCount" : 79,
+    "monthCompleteCount" : 25,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Sihong",
+    "latitude" : 33.42595526613395,
+    "longitude" : 118.3125512525045,
+    "orderAllCount" : 1026,
+    "orderCompleteCount" : 284,
+    "monthAllCount" : 86,
+    "monthCompleteCount" : 27,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Jingzhou",
+    "latitude" : 30.396103360852894,
+    "longitude" : 112.09985718064648,
+    "orderAllCount" : 1148,
+    "orderCompleteCount" : 306,
+    "monthAllCount" : 98,
+    "monthCompleteCount" : 30,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Panjin",
+    "latitude" : 41.14124802295616,
+    "longitude" : 122.07322781023007,
+    "orderAllCount" : 1065,
+    "orderCompleteCount" : 293,
+    "monthAllCount" : 89,
+    "monthCompleteCount" : 28,
+    "rankListType" : "城市"
+  } ],
+  "countryCide" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "countryAllCount" : 385,
+    "allCoverageRate" : 31,
+    "countryMonthCount" : 41,
+    "monthCoverageRate" : 3
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "countryAllCount" : 382,
+    "allCoverageRate" : 25,
+    "countryMonthCount" : 35,
+    "monthCoverageRate" : 2
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "countryAllCount" : 510,
+    "allCoverageRate" : 41,
+    "countryMonthCount" : 61,
+    "monthCoverageRate" : 5
+  } ],
+  "customer" : [ {
+    "oldCustomerCount" : 1523,
+    "newCustomerCount" : 1326,
+    "oldCooperationCount" : 557,
+    "newCooperationCount" : 734,
+    "oldRetailCount" : 223,
+    "newRetailCount" : 123,
+    "oldMajorClientCount" : 743,
+    "newMajorClientCount" : 469
+  } ]
+}
+
+

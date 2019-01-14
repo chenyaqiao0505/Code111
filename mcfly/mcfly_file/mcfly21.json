@@ -1,0 +1,53 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getCropVarietyAndAcreage
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 59740.00,
+    "details" : [ {
+      "cropVariety" : "common rice",
+      "acreage" : 27500.00
+    }, {
+      "cropVariety" : "super rice",
+      "acreage" : 19100.00
+    }, {
+      "cropVariety" : "gaoyou503",
+      "acreage" : 500.00
+    }, {
+      "cropVariety" : "jinan17",
+      "acreage" : 500.00
+    }, {
+      "cropVariety" : "yannong15",
+      "acreage" : 1400.00
+    }, {
+      "cropVariety" : "liangyu99",
+      "acreage" : 1400.00
+    }, {
+      "cropVariety" : "zhongdan909",
+      "acreage" : 1400.00
+    }, {
+      "cropVariety" : "longgaoL2",
+      "acreage" : 1400.00
+    }, {
+      "cropVariety" : "gutian bean",
+      "acreage" : 1170.00
+    }, {
+      "cropVariety" : "zhechun2#",
+      "acreage" : 1490.00
+    }, {
+      "cropVariety" : "quandou322",
+      "acreage" : 1180.00
+    }, {
+      "cropVariety" : "xinluzao6#",
+      "acreage" : 900.00
+    }, {
+      "cropVariety" : "xinluzao7#",
+      "acreage" : 900.00
+    }, {
+      "cropVariety" : "xinluzao13#",
+      "acreage" : 900.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

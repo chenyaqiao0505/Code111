@@ -1,0 +1,2671 @@
+{
+  "message" : "≤È—Ø≥…π¶",
+  "data" : [ {
+    "business" : "Liaoning",
+    "name" : "Mcfly Liaoning",
+    "acreage" : 117260.00,
+    "cropname" : [ "soybean", "corn", "cotton", "wheat", "rice" ],
+    "lng" : null,
+    "lat" : null,
+    "cropInfoByLngLats" : [ {
+      "latitude" : 41.38,
+      "longitude" : 122.53,
+      "boundary" : [ "122.56 42.41", "124.6 42.42", "122.6 42.4", "122.57 42.4" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Zhangwu",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.38,
+      "longitude" : 122.53,
+      "boundary" : [ "122.56 42.41", "124.6 42.42", "122.6 42.4", "122.57 42.4" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Zhangwu",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 43.38,
+      "longitude" : 122.53,
+      "boundary" : [ "122.56 42.41", "124.6 42.42", "122.6 42.4", "122.57 42.4" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Zhangwu",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.48,
+      "longitude" : 122.53,
+      "boundary" : [ "122.56 42.41", "124.6 42.42", "122.6 42.4", "122.57 42.4" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Zhangwu",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.38,
+      "longitude" : 122.53,
+      "boundary" : [ "122.56 42.41", "124.6 42.42", "122.6 42.4", "122.57 42.4" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Zhangwu",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.02,
+      "longitude" : 122.67,
+      "boundary" : [ "121.61 41.95", "121.628 41.95", "121.626 41.94", "121.61 41.945" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fuxin",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.02,
+      "longitude" : 122.67,
+      "boundary" : [ "121.61 41.95", "121.628 41.95", "121.626 41.94", "121.61 41.945" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fuxin",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.02,
+      "longitude" : 122.67,
+      "boundary" : [ "121.61 41.95", "121.628 41.95", "121.626 41.94", "121.61 41.945" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fuxin",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 43.02,
+      "longitude" : 122.67,
+      "boundary" : [ "121.61 41.95", "121.628 41.95", "121.626 41.94", "121.61 41.945" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fuxin",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.02,
+      "longitude" : 122.67,
+      "boundary" : [ "121.61 41.95", "121.628 41.95", "121.626 41.94", "121.61 41.945" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fuxin",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 43.78,
+      "longitude" : 124.11,
+      "boundary" : [ "124.086 42.801", "124.096 42.802", "124.099 42.8", "124.1 42.79", "124.09 42.79" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Changtu",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.78,
+      "longitude" : 124.11,
+      "boundary" : [ "124.086 42.801", "124.096 42.802", "124.099 42.8", "124.1 42.79", "124.09 42.79" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Changtu",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.78,
+      "longitude" : 124.11,
+      "boundary" : [ "124.086 42.801", "124.096 42.802", "124.099 42.8", "124.1 42.79", "124.09 42.79" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Changtu",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.99,
+      "longitude" : 124.11,
+      "boundary" : [ "124.086 42.801", "124.096 42.802", "124.099 42.8", "124.1 42.79", "124.09 42.79" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Changtu",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.78,
+      "longitude" : 124.11,
+      "boundary" : [ "124.086 42.801", "124.096 42.802", "124.099 42.8", "124.1 42.79", "124.09 42.79" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Changtu",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.32,
+      "longitude" : 124.03,
+      "boundary" : [ "124.079152105712 42.5334820848523", "124.072285650634 42.5250063950687", "124.086791036987 42.5167826118756", "124.095803259277 42.5239310387846" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Kaiyuan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.32,
+      "longitude" : 125.03,
+      "boundary" : [ "124.079152105712 42.5334820848523", "124.072285650634 42.5250063950687", "124.086791036987 42.5167826118756", "124.095803259277 42.5239310387846" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Kaiyuan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.32,
+      "longitude" : 124.03,
+      "boundary" : [ "124.079152105712 42.5334820848523", "124.072285650634 42.5250063950687", "124.086791036987 42.5167826118756", "124.095803259277 42.5239310387846" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Kaiyuan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.32,
+      "longitude" : 123.03,
+      "boundary" : [ "124.079152105712 42.5334820848523", "124.072285650634 42.5250063950687", "124.086791036987 42.5167826118756", "124.095803259277 42.5239310387846" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Kaiyuan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 43.32,
+      "longitude" : 124.03,
+      "boundary" : [ "124.079152105712 42.5334820848523", "124.072285650634 42.5250063950687", "124.086791036987 42.5167826118756", "124.095803259277 42.5239310387846" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Kaiyuan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.04,
+      "longitude" : 124.52,
+      "boundary" : [ "124.963450372682 42.1069635412031", "124.965681970582 42.10371591556", "124.973320901857 42.1071864113725", "124.971647203432 42.1104020223198" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Qingyuan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.04,
+      "longitude" : 125.52,
+      "boundary" : [ "124.963450372682 42.1069635412031", "124.965681970582 42.10371591556", "124.973320901857 42.1071864113725", "124.971647203432 42.1104020223198" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Qingyuan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.04,
+      "longitude" : 124.52,
+      "boundary" : [ "124.963450372682 42.1069635412031", "124.965681970582 42.10371591556", "124.973320901857 42.1071864113725", "124.971647203432 42.1104020223198" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Qingyuan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.04,
+      "longitude" : 123.52,
+      "boundary" : [ "124.963450372682 42.1069635412031", "124.965681970582 42.10371591556", "124.973320901857 42.1071864113725", "124.971647203432 42.1104020223198" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Qingyuan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 43.04,
+      "longitude" : 124.52,
+      "boundary" : [ "124.963450372682 42.1069635412031", "124.965681970582 42.10371591556", "124.973320901857 42.1071864113725", "124.971647203432 42.1104020223198" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Qingyuan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.33,
+      "longitude" : 120.26,
+      "boundary" : [ "120.402901067996 41.5548803346265", "120.414144888187 41.5472366459852", "120.427620306277 41.5605322289523", "120.421955480838 41.5638717523657", "120.41620482471 41.558284375634", "120.410282507205 41.5641286316336" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Chaoyang",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.33,
+      "longitude" : 121.26,
+      "boundary" : [ "120.402901067996 41.5548803346265", "120.414144888187 41.5472366459852", "120.427620306277 41.5605322289523", "120.421955480838 41.5638717523657", "120.41620482471 41.558284375634", "120.410282507205 41.5641286316336" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Chaoyang",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.33,
+      "longitude" : 120.26,
+      "boundary" : [ "120.402901067996 41.5548803346265", "120.414144888187 41.5472366459852", "120.427620306277 41.5605322289523", "120.421955480838 41.5638717523657", "120.41620482471 41.558284375634", "120.410282507205 41.5641286316336" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Chaoyang",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.33,
+      "longitude" : 119.26,
+      "boundary" : [ "120.402901067996 41.5548803346265", "120.414144888187 41.5472366459852", "120.427620306277 41.5605322289523", "120.421955480838 41.5638717523657", "120.41620482471 41.558284375634", "120.410282507205 41.5641286316336" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Chaoyang",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.33,
+      "longitude" : 120.26,
+      "boundary" : [ "120.402901067996 41.5548803346265", "120.414144888187 41.5472366459852", "120.427620306277 41.5605322289523", "120.421955480838 41.5638717523657", "120.41620482471 41.558284375634", "120.410282507205 41.5641286316336" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Chaoyang",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.58,
+      "longitude" : 122.51,
+      "boundary" : [ "122.82178527826 42.0663509605323", "122.816377944886 42.0583219747321", "122.836204833924 42.0500370363701", "122.845217056214 42.0567288012879" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Xinmin",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.58,
+      "longitude" : 123.51,
+      "boundary" : [ "122.82178527826 42.0663509605323", "122.816377944886 42.0583219747321", "122.836204833924 42.0500370363701", "122.845217056214 42.0567288012879" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Xinmin",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.58,
+      "longitude" : 122.51,
+      "boundary" : [ "122.82178527826 42.0663509605323", "122.816377944886 42.0583219747321", "122.836204833924 42.0500370363701", "122.845217056214 42.0567288012879" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Xinmin",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.58,
+      "longitude" : 121.51,
+      "boundary" : [ "122.82178527826 42.0663509605323", "122.816377944886 42.0583219747321", "122.836204833924 42.0500370363701", "122.845217056214 42.0567288012879" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Xinmin",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.58,
+      "longitude" : 122.51,
+      "boundary" : [ "122.82178527826 42.0663509605323", "122.816377944886 42.0583219747321", "122.836204833924 42.0500370363701", "122.845217056214 42.0567288012879" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Xinmin",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.31,
+      "longitude" : 121.15,
+      "boundary" : [ "121.240389828759 41.514357679907", "121.238115315514 41.5055843489921", "121.243651394921 41.5047487316581", "121.243737225609 41.5064520940402", "121.246355061608 41.5067413398052", "121.247642521935 41.5077697587269", "121.247513775902 41.5135864457361" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Yixian",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.31,
+      "longitude" : 122.15,
+      "boundary" : [ "121.240389828759 41.514357679907", "121.238115315514 41.5055843489921", "121.243651394921 41.5047487316581", "121.243737225609 41.5064520940402", "121.246355061608 41.5067413398052", "121.247642521935 41.5077697587269", "121.247513775902 41.5135864457361" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Yixian",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.31,
+      "longitude" : 121.15,
+      "boundary" : [ "121.240389828759 41.514357679907", "121.238115315514 41.5055843489921", "121.243651394921 41.5047487316581", "121.243737225609 41.5064520940402", "121.246355061608 41.5067413398052", "121.247642521935 41.5077697587269", "121.247513775902 41.5135864457361" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Yixian",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.31,
+      "longitude" : 120.15,
+      "boundary" : [ "121.240389828759 41.514357679907", "121.238115315514 41.5055843489921", "121.243651394921 41.5047487316581", "121.243737225609 41.5064520940402", "121.246355061608 41.5067413398052", "121.247642521935 41.5077697587269", "121.247513775902 41.5135864457361" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Yixian",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.31,
+      "longitude" : 121.15,
+      "boundary" : [ "121.240389828759 41.514357679907", "121.238115315514 41.5055843489921", "121.243651394921 41.5047487316581", "121.243737225609 41.5064520940402", "121.246355061608 41.5067413398052", "121.247642521935 41.5077697587269", "121.247513775902 41.5135864457361" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Yixian",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.55,
+      "longitude" : 124.04,
+      "boundary" : [ "123.933563174889 41.8598728833373", "123.943469862978 41.8603556191689", "123.943534235994 41.8633759766171", "123.94019932707 41.8647822319358", "123.936036538679 41.8631522513283" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fushun",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.55,
+      "longitude" : 125.04,
+      "boundary" : [ "123.933563174889 41.8598728833373", "123.943469862978 41.8603556191689", "123.943534235994 41.8633759766171", "123.94019932707 41.8647822319358", "123.936036538679 41.8631522513283" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fushun",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.55,
+      "longitude" : 124.04,
+      "boundary" : [ "123.933563174889 41.8598728833373", "123.943469862978 41.8603556191689", "123.943534235994 41.8633759766171", "123.94019932707 41.8647822319358", "123.936036538679 41.8631522513283" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fushun",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.55,
+      "longitude" : 123.04,
+      "boundary" : [ "123.933563174889 41.8598728833373", "123.943469862978 41.8603556191689", "123.943534235994 41.8633759766171", "123.94019932707 41.8647822319358", "123.936036538679 41.8631522513283" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fushun",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 42.55,
+      "longitude" : 124.04,
+      "boundary" : [ "123.933563174889 41.8598728833373", "123.943469862978 41.8603556191689", "123.943534235994 41.8633759766171", "123.94019932707 41.8647822319358", "123.936036538679 41.8631522513283" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Fushun",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 41.805,
+      "longitude" : 123.43,
+      "boundary" : [ "124.29 40.01", "124.28 40.007", "124.28 39.99", "124.298 40.004" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dandong",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.02,
+      "longitude" : 124.2,
+      "boundary" : [ "124.29 40.01", "124.28 40.007", "124.28 39.99", "124.298 40.004" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dandong",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.22,
+      "longitude" : 124.2,
+      "boundary" : [ "124.29 40.01", "124.28 40.007", "124.28 39.99", "124.298 40.004" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dandong",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 39.02,
+      "longitude" : 124.2,
+      "boundary" : [ "124.29 40.01", "124.28 40.007", "124.28 39.99", "124.298 40.004" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dandong",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 40.02,
+      "longitude" : 124.2,
+      "boundary" : [ "124.29 40.01", "124.28 40.007", "124.28 39.99", "124.298 40.004" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dandong",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 38.55,
+      "longitude" : 121.38,
+      "boundary" : [ "121.602244407703 38.9661209554857", "121.602072746326 38.9590133320717", "121.611342460682 38.9601813003686", "121.609540016224 38.9678226750053" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dalian",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 38.55,
+      "longitude" : 122.38,
+      "boundary" : [ "121.602244407703 38.9661209554857", "121.602072746326 38.9590133320717", "121.611342460682 38.9601813003686", "121.609540016224 38.9678226750053" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dalian",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 37.55,
+      "longitude" : 121.38,
+      "boundary" : [ "121.602244407703 38.9661209554857", "121.602072746326 38.9590133320717", "121.611342460682 38.9601813003686", "121.609540016224 38.9678226750053" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dalian",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 38.55,
+      "longitude" : 120.38,
+      "boundary" : [ "121.602244407703 38.9661209554857", "121.602072746326 38.9590133320717", "121.611342460682 38.9601813003686", "121.609540016224 38.9678226750053" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dalian",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 39.55,
+      "longitude" : 121.38,
+      "boundary" : [ "121.602244407703 38.9661209554857", "121.602072746326 38.9590133320717", "121.611342460682 38.9601813003686", "121.609540016224 38.9678226750053" ],
+      "acreage" : 2132.00,
+      "province" : "Liaoning",
+      "city" : "Dalian",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    } ]
+  }, {
+    "business" : "Hubei",
+    "name" : "Mcfly Hubei",
+    "acreage" : 117260.00,
+    "cropname" : [ "soybean", "corn", "cotton", "wheat", "rice" ],
+    "lng" : null,
+    "lat" : null,
+    "cropInfoByLngLats" : [ {
+      "latitude" : 32.39,
+      "longitude" : 110.47,
+      "boundary" : [ "110.993951004599 32.5327463087257", "110.994315785025 32.5309915009732", "111.000881832693 32.5299241269135", "111.002233666037 32.5329272147922", "110.997169655417 32.5344106307937" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Shiyan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.39,
+      "longitude" : 111.47,
+      "boundary" : [ "110.993951004599 32.5327463087257", "110.994315785025 32.5309915009732", "111.000881832693 32.5299241269135", "111.002233666037 32.5329272147922", "110.997169655417 32.5344106307937" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Shiyan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.39,
+      "longitude" : 110.47,
+      "boundary" : [ "110.993951004599 32.5327463087257", "110.994315785025 32.5309915009732", "111.000881832693 32.5299241269135", "111.002233666037 32.5329272147922", "110.997169655417 32.5344106307937" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Shiyan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.39,
+      "longitude" : 109.47,
+      "boundary" : [ "110.993951004599 32.5327463087257", "110.994315785025 32.5309915009732", "111.000881832693 32.5299241269135", "111.002233666037 32.5329272147922", "110.997169655417 32.5344106307937" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Shiyan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.39,
+      "longitude" : 110.47,
+      "boundary" : [ "110.993951004599 32.5327463087257", "110.994315785025 32.5309915009732", "111.000881832693 32.5299241269135", "111.002233666037 32.5329272147922", "110.997169655417 32.5344106307937" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Shiyan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.09,
+      "longitude" : 112.45,
+      "boundary" : [ "112.791490423745 32.1113600947746", "112.791147100991 32.1063073040536", "112.796168196267 32.1054712038077", "112.798957693643 32.1112146946327" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Zaoyang",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.09,
+      "longitude" : 113.45,
+      "boundary" : [ "112.791490423745 32.1113600947746", "112.791147100991 32.1063073040536", "112.796168196267 32.1054712038077", "112.798957693643 32.1112146946327" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Zaoyang",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.090000000000003,
+      "longitude" : 112.45,
+      "boundary" : [ "112.791490423745 32.1113600947746", "112.791147100991 32.1063073040536", "112.796168196267 32.1054712038077", "112.798957693643 32.1112146946327" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Zaoyang",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.09,
+      "longitude" : 111.45,
+      "boundary" : [ "112.791490423745 32.1113600947746", "112.791147100991 32.1063073040536", "112.796168196267 32.1054712038077", "112.798957693643 32.1112146946327" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Zaoyang",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.09,
+      "longitude" : 112.45,
+      "boundary" : [ "112.791490423745 32.1113600947746", "112.791147100991 32.1063073040536", "112.796168196267 32.1054712038077", "112.798957693643 32.1112146946327" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Zaoyang",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.21,
+      "longitude" : 110.44,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.21,
+      "longitude" : 111.44,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.21,
+      "longitude" : 110.44,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.21,
+      "longitude" : 109.44,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.21,
+      "longitude" : 110.44,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.48,
+      "longitude" : 111.5,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.48,
+      "longitude" : 112.5,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.48,
+      "longitude" : 111.5,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.48,
+      "longitude" : 110.5,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.480000000000004,
+      "longitude" : 111.5,
+      "boundary" : [ "110.821678478273 31.3271116621921", "110.822901565584 31.324985425411", "110.82478984073 31.3253886809046", "110.825540859255 31.3270566739147", "110.825948555025 31.3280281287519", "110.8242748566 31.3307774748947" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xingshan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.44,
+      "longitude" : 111.22,
+      "boundary" : [ "111.259763522502 30.686950423536", "111.260085387584 30.684274712663", "111.263346953746 30.6834073973639", "111.264913363811 30.684782167267", "111.265750213023 30.6866367233398" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Yichang",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.44,
+      "longitude" : 112.22,
+      "boundary" : [ "111.259763522502 30.686950423536", "111.260085387584 30.684274712663", "111.263346953746 30.6834073973639", "111.264913363811 30.684782167267", "111.265750213023 30.6866367233398" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Yichang",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.44,
+      "longitude" : 111.22,
+      "boundary" : [ "111.259763522502 30.686950423536", "111.260085387584 30.684274712663", "111.263346953746 30.6834073973639", "111.264913363811 30.684782167267", "111.265750213023 30.6866367233398" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Yichang",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.44,
+      "longitude" : 110.22,
+      "boundary" : [ "111.259763522502 30.686950423536", "111.260085387584 30.684274712663", "111.263346953746 30.6834073973639", "111.264913363811 30.684782167267", "111.265750213023 30.6866367233398" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Yichang",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.44,
+      "longitude" : 111.22,
+      "boundary" : [ "111.259763522502 30.686950423536", "111.260085387584 30.684274712663", "111.263346953746 30.6834073973639", "111.264913363811 30.684782167267", "111.265750213023 30.6866367233398" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Yichang",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.21,
+      "longitude" : 112.09,
+      "boundary" : [ "112.182394335384 30.371766670498", "112.181257078761 30.3660645360049", "112.187951872462 30.3669161746167", "112.189539740199 30.3714889768458" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jingzhou",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.21,
+      "longitude" : 113.09,
+      "boundary" : [ "112.182394335384 30.371766670498", "112.181257078761 30.3660645360049", "112.187951872462 30.3669161746167", "112.189539740199 30.3714889768458" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jingzhou",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.21,
+      "longitude" : 112.09,
+      "boundary" : [ "112.182394335384 30.371766670498", "112.181257078761 30.3660645360049", "112.187951872462 30.3669161746167", "112.189539740199 30.3714889768458" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jingzhou",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.21,
+      "longitude" : 111.09,
+      "boundary" : [ "112.182394335384 30.371766670498", "112.181257078761 30.3660645360049", "112.187951872462 30.3669161746167", "112.189539740199 30.3714889768458" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jingzhou",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.21,
+      "longitude" : 112.09,
+      "boundary" : [ "112.182394335384 30.371766670498", "112.181257078761 30.3660645360049", "112.187951872462 30.3669161746167", "112.189539740199 30.3714889768458" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jingzhou",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.54,
+      "longitude" : 113.57,
+      "boundary" : [ "114.005124557876 30.9015011891174", "114.005811203383 30.8911163782448", "114.012548912429 30.894725411847", "114.017784584426 30.8890171838946", "114.021046150588 30.8940625383214", "114.016115034297 30.8967472706709", "114.016157949641 30.9005770358713", "114.010664785578 30.9009820982317" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xiaogan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.54,
+      "longitude" : 114.57,
+      "boundary" : [ "114.005124557876 30.9015011891174", "114.005811203383 30.8911163782448", "114.012548912429 30.894725411847", "114.017784584426 30.8890171838946", "114.021046150588 30.8940625383214", "114.016115034297 30.8967472706709", "114.016157949641 30.9005770358713", "114.010664785578 30.9009820982317" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xiaogan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.54,
+      "longitude" : 113.57,
+      "boundary" : [ "114.005124557876 30.9015011891174", "114.005811203383 30.8911163782448", "114.012548912429 30.894725411847", "114.017784584426 30.8890171838946", "114.021046150588 30.8940625383214", "114.016115034297 30.8967472706709", "114.016157949641 30.9005770358713", "114.010664785578 30.9009820982317" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xiaogan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.54,
+      "longitude" : 112.57,
+      "boundary" : [ "114.005124557876 30.9015011891174", "114.005811203383 30.8911163782448", "114.012548912429 30.894725411847", "114.017784584426 30.8890171838946", "114.021046150588 30.8940625383214", "114.016115034297 30.8967472706709", "114.016157949641 30.9005770358713", "114.010664785578 30.9009820982317" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xiaogan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.54,
+      "longitude" : 113.57,
+      "boundary" : [ "114.005124557876 30.9015011891174", "114.005811203383 30.8911163782448", "114.012548912429 30.894725411847", "114.017784584426 30.8890171838946", "114.021046150588 30.8940625383214", "114.016115034297 30.8967472706709", "114.016157949641 30.9005770358713", "114.010664785578 30.9009820982317" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Xiaogan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.36,
+      "longitude" : 114.03,
+      "boundary" : [ "113.63 30.76", "114.43 30.76", "114.43 29.96", "113.63 29.96" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Wuhan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.36,
+      "longitude" : 115.03,
+      "boundary" : [ "114.63 30.76", "115.43 30.76", "115.43 29.96", "114.63 29.96" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Wuhan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.36,
+      "longitude" : 114.03,
+      "boundary" : [ "113.63 29.76", "114.43 29.76", "114.43 28.96", "113.63 28.96" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Wuhan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.36,
+      "longitude" : 113.03,
+      "boundary" : [ "112.63 30.76", "113.43 30.76", "113.43 29.96", "112.63 29.96" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Wuhan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.36,
+      "longitude" : 114.03,
+      "boundary" : [ "113.63 31.76", "114.43 31.76", "114.43 30.96", "113.63 30.96" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Wuhan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.5,
+      "longitude" : 112.54,
+      "boundary" : [ "112.995867402771 29.8939224847798", "113.012346894958 29.8800066784274", "113.004622132995 29.8728619805658", "112.976165563675 29.8759134245611" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jianli",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.5,
+      "longitude" : 113.54,
+      "boundary" : [ "112.995867402771 29.8939224847798", "113.012346894958 29.8800066784274", "113.004622132995 29.8728619805658", "112.976165563675 29.8759134245611" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jianli",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 28.5,
+      "longitude" : 112.54,
+      "boundary" : [ "112.995867402771 29.8939224847798", "113.012346894958 29.8800066784274", "113.004622132995 29.8728619805658", "112.976165563675 29.8759134245611" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jianli",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.5,
+      "longitude" : 111.54,
+      "boundary" : [ "112.995867402771 29.8939224847798", "113.012346894958 29.8800066784274", "113.004622132995 29.8728619805658", "112.976165563675 29.8759134245611" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jianli",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.5,
+      "longitude" : 112.54,
+      "boundary" : [ "112.995867402771 29.8939224847798", "113.012346894958 29.8800066784274", "113.004622132995 29.8728619805658", "112.976165563675 29.8759134245611" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Jianli",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.49,
+      "longitude" : 113.27,
+      "boundary" : [ "113.503423012668 30.0256021997779", "113.489604271823 30.0137115071717", "113.509002007419 30.0043465832912" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Honghu",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.49,
+      "longitude" : 114.27,
+      "boundary" : [ "113.503423012668 30.0256021997779", "113.489604271823 30.0137115071717", "113.509002007419 30.0043465832912" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Honghu",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 28.49,
+      "longitude" : 113.27,
+      "boundary" : [ "113.503423012668 30.0256021997779", "113.489604271823 30.0137115071717", "113.509002007419 30.0043465832912" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Honghu",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.49,
+      "longitude" : 112.27,
+      "boundary" : [ "113.503423012668 30.0256021997779", "113.489604271823 30.0137115071717", "113.509002007419 30.0043465832912" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Honghu",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.49,
+      "longitude" : 113.27,
+      "boundary" : [ "113.503423012668 30.0256021997779", "113.489604271823 30.0137115071717", "113.509002007419 30.0043465832912" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Honghu",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.37,
+      "longitude" : 114.27,
+      "boundary" : [ "114.633951658496 29.5583165560252", "114.636183256397 29.556058060583", "114.640732282886 29.5582792259324", "114.638929838428 29.560369689889", "114.637191766986 29.5598097484279", "114.635153288135 29.5606869886726" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Tongshan",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.37,
+      "longitude" : 115.27,
+      "boundary" : [ "114.633951658496 29.5583165560252", "114.636183256397 29.556058060583", "114.640732282886 29.5582792259324", "114.638929838428 29.560369689889", "114.637191766986 29.5598097484279", "114.635153288135 29.5606869886726" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Tongshan",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 28.37,
+      "longitude" : 114.27,
+      "boundary" : [ "114.633951658496 29.5583165560252", "114.636183256397 29.556058060583", "114.640732282886 29.5582792259324", "114.638929838428 29.560369689889", "114.637191766986 29.5598097484279", "114.635153288135 29.5606869886726" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Tongshan",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 29.37,
+      "longitude" : 113.27,
+      "boundary" : [ "114.633951658496 29.5583165560252", "114.636183256397 29.556058060583", "114.640732282886 29.5582792259324", "114.638929838428 29.560369689889", "114.637191766986 29.5598097484279", "114.635153288135 29.5606869886726" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Tongshan",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.37,
+      "longitude" : 114.27,
+      "boundary" : [ "114.633951658496 29.5583165560252", "114.636183256397 29.556058060583", "114.640732282886 29.5582792259324", "114.638929838428 29.560369689889", "114.637191766986 29.5598097484279", "114.635153288135 29.5606869886726" ],
+      "acreage" : 2132.00,
+      "province" : "Hubei",
+      "city" : "Tongshan",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    } ]
+  }, {
+    "business" : "Jiangsu",
+    "name" : "Mcfly Jiangsu",
+    "acreage" : 117260.00,
+    "cropname" : [ "soybean", "corn", "cotton", "wheat", "rice" ],
+    "lng" : null,
+    "lat" : null,
+    "cropInfoByLngLats" : [ {
+      "latitude" : 34.24,
+      "longitude" : 118.01,
+      "boundary" : [ "117.857312903255 34.4380294342038", "117.855682120174 34.4254282454545", "117.872848257869 34.4195517607943", "117.877225622981 34.4343483844944" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuozhou",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.24,
+      "longitude" : 119.01,
+      "boundary" : [ "117.857312903255 34.4380294342038", "117.855682120174 34.4254282454545", "117.872848257869 34.4195517607943", "117.877225622981 34.4343483844944" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuozhou",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.24,
+      "longitude" : 118.01,
+      "boundary" : [ "117.857312903255 34.4380294342038", "117.855682120174 34.4254282454545", "117.872848257869 34.4195517607943", "117.877225622981 34.4343483844944" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuozhou",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.24,
+      "longitude" : 117.01,
+      "boundary" : [ "117.857312903255 34.4380294342038", "117.855682120174 34.4254282454545", "117.872848257869 34.4195517607943", "117.877225622981 34.4343483844944" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuozhou",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 35.24,
+      "longitude" : 118.01,
+      "boundary" : [ "117.857312903255 34.4380294342038", "117.855682120174 34.4254282454545", "117.872848257869 34.4195517607943", "117.877225622981 34.4343483844944" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuozhou",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.17,
+      "longitude" : 117.1,
+      "boundary" : [ "117.142433006891 34.3529121179655", "117.144063789972 34.3390933010612", "117.163204033502 34.3408650715251", "117.16165908111 34.3537624323075" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Xuzhou",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.17,
+      "longitude" : 118.1,
+      "boundary" : [ "117.142433006891 34.3529121179655", "117.144063789972 34.3390933010612", "117.163204033502 34.3408650715251", "117.16165908111 34.3537624323075" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Xuzhou",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.17,
+      "longitude" : 117.1,
+      "boundary" : [ "117.142433006891 34.3529121179655", "117.144063789972 34.3390933010612", "117.163204033502 34.3408650715251", "117.16165908111 34.3537624323075" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Xuzhou",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.17,
+      "longitude" : 116.1,
+      "boundary" : [ "117.142433006891 34.3529121179655", "117.144063789972 34.3390933010612", "117.163204033502 34.3408650715251", "117.16165908111 34.3537624323075" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Xuzhou",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 35.17,
+      "longitude" : 117.1,
+      "boundary" : [ "117.142433006891 34.3529121179655", "117.144063789972 34.3390933010612", "117.163204033502 34.3408650715251", "117.16165908111 34.3537624323075" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Xuzhou",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.05,
+      "longitude" : 118.47,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.05,
+      "longitude" : 119.47,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.05,
+      "longitude" : 118.47,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.05,
+      "longitude" : 117.47,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 35.05,
+      "longitude" : 118.47,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.29,
+      "longitude" : 118.13,
+      "boundary" : [ "118.265568668968 33.4218899119209", "118.264281208641 33.4038353826259", "118.28179066909 33.4035487725374", "118.283936436302 33.4204571498902" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuohong",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.29,
+      "longitude" : 119.13,
+      "boundary" : [ "118.265568668968 33.4218899119209", "118.264281208641 33.4038353826259", "118.28179066909 33.4035487725374", "118.283936436302 33.4204571498902" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuohong",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.29,
+      "longitude" : 118.13,
+      "boundary" : [ "118.265568668968 33.4218899119209", "118.264281208641 33.4038353826259", "118.28179066909 33.4035487725374", "118.283936436302 33.4204571498902" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuohong",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.29,
+      "longitude" : 117.13,
+      "boundary" : [ "118.265568668968 33.4218899119209", "118.264281208641 33.4038353826259", "118.28179066909 33.4035487725374", "118.283936436302 33.4204571498902" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuohong",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.29,
+      "longitude" : 118.13,
+      "boundary" : [ "118.265568668968 33.4218899119209", "118.264281208641 33.4038353826259", "118.28179066909 33.4035487725374", "118.283936436302 33.4204571498902" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuohong",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.1,
+      "longitude" : 120.27,
+      "boundary" : [ "120.585700173804 33.2383460551984", "120.587245126197 33.2248487592025", "120.600119729468 33.2254949538258", "120.598746438453 33.2392793018498" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Dafeng",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.1,
+      "longitude" : 121.27,
+      "boundary" : [ "120.585700173804 33.2383460551984", "120.587245126197 33.2248487592025", "120.600119729468 33.2254949538258", "120.598746438453 33.2392793018498" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Dafeng",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.1,
+      "longitude" : 120.27,
+      "boundary" : [ "120.585700173804 33.2383460551984", "120.587245126197 33.2248487592025", "120.600119729468 33.2254949538258", "120.598746438453 33.2392793018498" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Dafeng",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.1,
+      "longitude" : 119.27,
+      "boundary" : [ "120.585700173804 33.2383460551984", "120.587245126197 33.2248487592025", "120.600119729468 33.2254949538258", "120.598746438453 33.2392793018498" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Dafeng",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 34.1,
+      "longitude" : 120.27,
+      "boundary" : [ "120.585700173804 33.2383460551984", "120.587245126197 33.2248487592025", "120.600119729468 33.2254949538258", "120.598746438453 33.2392793018498" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Dafeng",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.56,
+      "longitude" : 118.54,
+      "boundary" : [ "118.856269886852 31.3554177571708", "118.86172013557 31.3438729874514", "118.86626916206 31.3458888430075", "118.862106373669 31.3524492374515", "118.8577719239 31.3566637745614" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nanjing",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.56,
+      "longitude" : 119.54,
+      "boundary" : [ "118.856269886852 31.3554177571708", "118.86172013557 31.3438729874514", "118.86626916206 31.3458888430075", "118.862106373669 31.3524492374515", "118.8577719239 31.3566637745614" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nanjing",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.56,
+      "longitude" : 118.54,
+      "boundary" : [ "118.856269886852 31.3554177571708", "118.86172013557 31.3438729874514", "118.86626916206 31.3458888430075", "118.862106373669 31.3524492374515", "118.8577719239 31.3566637745614" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nanjing",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.56,
+      "longitude" : 117.54,
+      "boundary" : [ "118.856269886852 31.3554177571708", "118.86172013557 31.3438729874514", "118.86626916206 31.3458888430075", "118.862106373669 31.3524492374515", "118.8577719239 31.3566637745614" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nanjing",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.56,
+      "longitude" : 118.54,
+      "boundary" : [ "118.856269886852 31.3554177571708", "118.86172013557 31.3438729874514", "118.86626916206 31.3458888430075", "118.862106373669 31.3524492374515", "118.8577719239 31.3566637745614" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nanjing",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.48,
+      "longitude" : 119.27,
+      "boundary" : [ "119.455054892091 32.8430647508102", "119.455355299501 32.8367187169772", "119.46496833661 32.8379086328774", "119.463981283693 32.8437498068761" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Gaoyou",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.48,
+      "longitude" : 120.27,
+      "boundary" : [ "119.455054892091 32.8430647508102", "119.455355299501 32.8367187169772", "119.46496833661 32.8379086328774", "119.463981283693 32.8437498068761" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Gaoyou",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.479999999999997,
+      "longitude" : 119.27,
+      "boundary" : [ "119.455054892091 32.8430647508102", "119.455355299501 32.8367187169772", "119.46496833661 32.8379086328774", "119.463981283693 32.8437498068761" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Gaoyou",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.48,
+      "longitude" : 118.27,
+      "boundary" : [ "119.455054892091 32.8430647508102", "119.455355299501 32.8367187169772", "119.46496833661 32.8379086328774", "119.463981283693 32.8437498068761" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Gaoyou",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.48,
+      "longitude" : 119.27,
+      "boundary" : [ "119.455054892091 32.8430647508102", "119.455355299501 32.8367187169772", "119.46496833661 32.8379086328774", "119.463981283693 32.8437498068761" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Gaoyou",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.05,
+      "longitude" : 120.59,
+      "boundary" : [ "120.797019704233 32.0909286337525", "120.794723733316 32.0853656691459", "120.800774796854 32.0838567020594", "120.802040799509 32.0908377383597" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nantong",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.05,
+      "longitude" : 121.59,
+      "boundary" : [ "120.797019704233 32.0909286337525", "120.794723733316 32.0853656691459", "120.800774796854 32.0838567020594", "120.802040799509 32.0908377383597" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nantong",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.049999999999997,
+      "longitude" : 120.59,
+      "boundary" : [ "120.797019704233 32.0909286337525", "120.794723733316 32.0853656691459", "120.800774796854 32.0838567020594", "120.802040799509 32.0908377383597" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nantong",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.05,
+      "longitude" : 119.59,
+      "boundary" : [ "120.797019704233 32.0909286337525", "120.794723733316 32.0853656691459", "120.800774796854 32.0838567020594", "120.802040799509 32.0908377383597" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nantong",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 33.05,
+      "longitude" : 120.59,
+      "boundary" : [ "120.797019704233 32.0909286337525", "120.794723733316 32.0853656691459", "120.800774796854 32.0838567020594", "120.802040799509 32.0908377383597" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Nantong",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.52,
+      "longitude" : 119.59,
+      "boundary" : [ "120.068541071772 31.8399625415758", "120.070171854853 31.8366083763045", "120.075450442195 31.8386135984613", "120.075321696162 31.8439727965238", "120.072575114131 31.8416395784876" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Changzhou",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.52,
+      "longitude" : 120.59,
+      "boundary" : [ "120.068541071772 31.8399625415758", "120.070171854853 31.8366083763045", "120.075450442195 31.8386135984613", "120.075321696162 31.8439727965238", "120.072575114131 31.8416395784876" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Changzhou",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.52,
+      "longitude" : 119.59,
+      "boundary" : [ "120.068541071772 31.8399625415758", "120.070171854853 31.8366083763045", "120.075450442195 31.8386135984613", "120.075321696162 31.8439727965238", "120.072575114131 31.8416395784876" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Changzhou",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.52,
+      "longitude" : 118.59,
+      "boundary" : [ "120.068541071772 31.8399625415758", "120.070171854853 31.8366083763045", "120.075450442195 31.8386135984613", "120.075321696162 31.8439727965238", "120.072575114131 31.8416395784876" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Changzhou",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.519999999999996,
+      "longitude" : 119.59,
+      "boundary" : [ "120.068541071772 31.8399625415758", "120.070171854853 31.8366083763045", "120.075450442195 31.8386135984613", "120.075321696162 31.8439727965238", "120.072575114131 31.8416395784876" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Changzhou",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.26,
+      "longitude" : 119.3,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.26,
+      "longitude" : 120.3,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.26,
+      "longitude" : 119.3,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.26,
+      "longitude" : 118.3,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.260000000000005,
+      "longitude" : 119.3,
+      "boundary" : [ "119.369336481725 31.4532206553683", "119.367834444677 31.4466306881159", "119.378477450048 31.4465574636536", "119.377104159032 31.4531840457197" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Zuoyang",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.37,
+      "longitude" : 120.21,
+      "boundary" : [ "120.130271246878 31.6135442750696", "120.125271609274 31.6138366493128", "120.124542048422 31.6068559634932", "120.128318598715 31.6068925129496", "120.130442908255 31.6071300840662", "120.131022265402 31.6099077936804" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Wuxi",
+      "cropDetails" : {
+        "type" : "rice",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-01",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.37,
+      "longitude" : 121.21,
+      "boundary" : [ "120.130271246878 31.6135442750696", "120.125271609274 31.6138366493128", "120.124542048422 31.6068559634932", "120.128318598715 31.6068925129496", "120.130442908255 31.6071300840662", "120.131022265402 31.6099077936804" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Wuxi",
+      "cropDetails" : {
+        "type" : "wheat",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-02",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 30.37,
+      "longitude" : 120.21,
+      "boundary" : [ "120.130271246878 31.6135442750696", "120.125271609274 31.6138366493128", "120.124542048422 31.6068559634932", "120.128318598715 31.6068925129496", "120.130442908255 31.6071300840662", "120.131022265402 31.6099077936804" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Wuxi",
+      "cropDetails" : {
+        "type" : "corn",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-07-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 31.37,
+      "longitude" : 119.21,
+      "boundary" : [ "120.130271246878 31.6135442750696", "120.125271609274 31.6138366493128", "120.124542048422 31.6068559634932", "120.128318598715 31.6068925129496", "120.130442908255 31.6071300840662", "120.131022265402 31.6099077936804" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Wuxi",
+      "cropDetails" : {
+        "type" : "soybean",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-06-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    }, {
+      "latitude" : 32.370000000000005,
+      "longitude" : 120.21,
+      "boundary" : [ "120.130271246878 31.6135442750696", "120.125271609274 31.6138366493128", "120.124542048422 31.6068559634932", "120.128318598715 31.6068925129496", "120.130442908255 31.6071300840662", "120.131022265402 31.6099077936804" ],
+      "acreage" : 2132.00,
+      "province" : "Jiangsu",
+      "city" : "Wuxi",
+      "cropDetails" : {
+        "type" : "cotton",
+        "variety" : "",
+        "sowing" : "direct seeding",
+        "sowingTime" : "2018-05-03",
+        "growth" : ""
+      },
+      "id" : null,
+      "areaCount" : null
+    } ]
+  } ],
+  "code" : 10000
+}
+
+

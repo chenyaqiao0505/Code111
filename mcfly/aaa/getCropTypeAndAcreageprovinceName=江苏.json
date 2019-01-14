@@ -1,0 +1,28 @@
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 11380.00,
+    "details" : [ {
+      "cropType" : [ {
+        "id" : 1,
+        "name" : "杂交稻"
+      } ],
+      "acreage" : 7000.00
+    }, {
+      "cropType" : [ {
+        "id" : 2,
+        "name" : "小麦"
+      } ],
+      "acreage" : 2200.00
+    }, {
+      "cropType" : [ {
+        "id" : 3,
+        "name" : "玉米"
+      } ],
+      "acreage" : 2180.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

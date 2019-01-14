@@ -1,0 +1,16 @@
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 2180.00,
+    "details" : [ {
+      "cropType" : [ {
+        "id" : 3,
+        "name" : "玉米"
+      } ],
+      "acreage" : 2180.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

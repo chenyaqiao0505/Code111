@@ -1,0 +1,38 @@
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 1000.00,
+    "details" : [ {
+      "sowingMethod" : "direct seeding",
+      "cropType" : [ {
+        "id" : 4,
+        "name" : "大豆"
+      } ],
+      "acreage" : 100.00
+    }, {
+      "sowingMethod" : "dry breeding",
+      "cropType" : [ {
+        "id" : 4,
+        "name" : "大豆"
+      } ],
+      "acreage" : 300.00
+    }, {
+      "sowingMethod" : "hand sowing",
+      "cropType" : [ {
+        "id" : 4,
+        "name" : "大豆"
+      } ],
+      "acreage" : 200.00
+    }, {
+      "sowingMethod" : "transplant",
+      "cropType" : [ {
+        "id" : 4,
+        "name" : "大豆"
+      } ],
+      "acreage" : 400.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

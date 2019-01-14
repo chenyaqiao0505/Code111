@@ -1,0 +1,31 @@
+{
+  "message" : "≤È—Ø≥…π¶",
+  "data" : [ {
+    "provinceName" : "Liaoning",
+    "cropType" : [ {
+      "id" : 2,
+      "name" : "wheat"
+    } ],
+    "totalAcreage" : 9763,
+    "increaseAcreage" : 3226
+  }, {
+    "provinceName" : "Hubei",
+    "cropType" : [ {
+      "id" : 2,
+      "name" : "wheat"
+    } ],
+    "totalAcreage" : 9668,
+    "increaseAcreage" : 3226
+  }, {
+    "provinceName" : "Jiangsu",
+    "cropType" : [ {
+      "id" : 2,
+      "name" : "wheat"
+    } ],
+    "totalAcreage" : 8663,
+    "increaseAcreage" : 2634
+  } ],
+  "code" : 10000
+}
+
+

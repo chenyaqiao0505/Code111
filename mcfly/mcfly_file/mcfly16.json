@@ -1,0 +1,103 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getTop5CityAreaAcreage
+{
+  "message" : "查询成功",
+  "data" : [ {
+    "cityName" : "Panjin",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "cityTotalAcreage" : 22236
+  }, {
+    "cityName" : "Jingzhou",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "cityTotalAcreage" : 19732
+  }, {
+    "cityName" : "Sihong",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "cityTotalAcreage" : 13527
+  }, {
+    "cityName" : "Jinzhou",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "cityTotalAcreage" : 11357
+  }, {
+    "cityName" : "Wuhan",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "cityTotalAcreage" : 9275
+  } ],
+  "code" : 10000
+}
+
+

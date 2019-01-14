@@ -1,0 +1,53 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getCropVarietyAndAcreage?provinceName=江苏
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 16020.00,
+    "details" : [ {
+      "cropVariety" : "common rice",
+      "acreage" : 9100.00
+    }, {
+      "cropVariety" : "super rice",
+      "acreage" : 1100.00
+    }, {
+      "cropVariety" : "gaoyou503",
+      "acreage" : 100.00
+    }, {
+      "cropVariety" : "jinan17",
+      "acreage" : 100.00
+    }, {
+      "cropVariety" : "yannong15",
+      "acreage" : 600.00
+    }, {
+      "cropVariety" : "liangyu99",
+      "acreage" : 600.00
+    }, {
+      "cropVariety" : "zhongdan909",
+      "acreage" : 600.00
+    }, {
+      "cropVariety" : "longgaoL2",
+      "acreage" : 600.00
+    }, {
+      "cropVariety" : "gutian bean",
+      "acreage" : 560.00
+    }, {
+      "cropVariety" : "zhechun2#",
+      "acreage" : 610.00
+    }, {
+      "cropVariety" : "quandou322",
+      "acreage" : 550.00
+    }, {
+      "cropVariety" : "xinluzao6#",
+      "acreage" : 500.00
+    }, {
+      "cropVariety" : "xinluzao7#",
+      "acreage" : 500.00
+    }, {
+      "cropVariety" : "xinluzao13#",
+      "acreage" : 500.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

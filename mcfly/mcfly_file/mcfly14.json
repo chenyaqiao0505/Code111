@@ -1,0 +1,74 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getCoverCityAndArea?provinceId=420000
+{
+  "message" : "查询成功",
+  "data" : [ {
+    "provinceName" : "Liaoning",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "coverCityTotalCount" : 9,
+    "coverCityCountCurrentMonth" : 2,
+    "coverAreaTotalCount" : 402,
+    "coverAreaCountCurrentMonth" : 76
+  }, {
+    "provinceName" : "Hubei",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "coverCityTotalCount" : 9,
+    "coverCityCountCurrentMonth" : 3,
+    "coverAreaTotalCount" : 387,
+    "coverAreaCountCurrentMonth" : 94
+  }, {
+    "provinceName" : "Jiangsu",
+    "cropType" : [ {
+      "id" : 1,
+      "name" : "rice"
+    }, {
+      "id" : 2,
+      "name" : "wheat"
+    }, {
+      "id" : 3,
+      "name" : "corn"
+    }, {
+      "id" : 4,
+      "name" : "soybean"
+    }, {
+      "id" : 5,
+      "name" : "cotton"
+    } ],
+    "coverCityTotalCount" : 7,
+    "coverCityCountCurrentMonth" : 1,
+    "coverAreaTotalCount" : 352,
+    "coverAreaCountCurrentMonth" : 28
+  } ],
+  "code" : 10000
+}
+
+

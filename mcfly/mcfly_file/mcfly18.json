@@ -1,0 +1,35 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getCropTypeAndAcreage
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 26160.00,
+    "details" : [ {
+      "cropType" : [ {
+        "id" : 1,
+        "name" : "杂交稻"
+      } ],
+      "acreage" : 15160.00
+    }, {
+      "cropType" : [ {
+        "id" : 2,
+        "name" : "小麦"
+      } ],
+      "acreage" : 4480.00
+    }, {
+      "cropType" : [ {
+        "id" : 3,
+        "name" : "玉米"
+      } ],
+      "acreage" : 4320.00
+    }, {
+      "cropType" : [ {
+        "id" : 4,
+        "name" : "大豆"
+      } ],
+      "acreage" : 2200.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

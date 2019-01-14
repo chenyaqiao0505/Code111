@@ -1,0 +1,14 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getCropVarietyAndAcreage?provinceName=江苏&cropVariety=超级稻
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 1100.00,
+    "details" : [ {
+      "cropVariety" : "super rice",
+      "acreage" : 1100.00
+    } ]
+  },
+  "code" : 10000
+}
+
+

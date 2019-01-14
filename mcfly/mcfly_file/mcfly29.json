@@ -1,0 +1,8 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getTotalAcreageWholeCountry
+{
+  "message" : "查询成功",
+  "data" : 26160.00,
+  "code" : 10000
+}
+
+

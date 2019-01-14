@@ -1,0 +1,38 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getCoverCityAndArea?provinceId=420000&cropTypeId=2
+{
+  "message" : "查询成功",
+  "data" : [ {
+    "provinceName" : "Liaoning",
+    "cropType" : [ {
+      "id" : 2,
+      "name" : "wheat"
+    } ],
+    "coverCityTotalCount" : 9,
+    "coverCityCountCurrentMonth" : 2,
+    "coverAreaTotalCount" : 62,
+    "coverAreaCountCurrentMonth" : 20
+  }, {
+    "provinceName" : "Hubei",
+    "cropType" : [ {
+      "id" : 2,
+      "name" : "wheat"
+    } ],
+    "coverCityTotalCount" : 9,
+    "coverCityCountCurrentMonth" : 3,
+    "coverAreaTotalCount" : 63,
+    "coverAreaCountCurrentMonth" : 21
+  }, {
+    "provinceName" : "Jiangsu",
+    "cropType" : [ {
+      "id" : 2,
+      "name" : "wheat"
+    } ],
+    "coverCityTotalCount" : 7,
+    "coverCityCountCurrentMonth" : 1,
+    "coverAreaTotalCount" : 43,
+    "coverAreaCountCurrentMonth" : 6
+  } ],
+  "code" : 10000
+}
+
+

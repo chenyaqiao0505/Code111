@@ -1,0 +1,141 @@
+{
+  "workAircraft" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "aircraftCode" : "MV-¢ñ01",
+    "workCount" : 131,
+    "operateTime" : 1212,
+    "workArea" : 24986,
+    "workRange" : 8635
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "aircraftCode" : "MV-¢ñ09",
+    "workCount" : 132,
+    "operateTime" : 1242,
+    "workArea" : 24548,
+    "workRange" : 8357
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "aircraftCode" : "MV-¢ñ10",
+    "workCount" : 39,
+    "operateTime" : 1305,
+    "workArea" : 24864,
+    "workRange" : 8154
+  } ],
+  "province" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "allCount" : 45,
+    "increaseAllCount" : 7,
+    "useCount" : 32,
+    "increaseUseCount" : 7,
+    "useRate" : 6,
+    "increaseUseRate" : 6,
+    "serviceArea" : 4271,
+    "modelAndCount" : null
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "allCount" : 56,
+    "increaseAllCount" : 8,
+    "useCount" : 42,
+    "increaseUseCount" : 7,
+    "useRate" : 7,
+    "increaseUseRate" : 3,
+    "serviceArea" : 3536,
+    "modelAndCount" : null
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "allCount" : 74,
+    "increaseAllCount" : 10,
+    "useCount" : 56,
+    "increaseUseCount" : 10,
+    "useRate" : 7,
+    "increaseUseRate" : 4,
+    "serviceArea" : 5075,
+    "modelAndCount" : null
+  } ],
+  "china" : [ {
+    "country" : "whole country",
+    "latitude" : null,
+    "longitude" : null,
+    "allCount" : 165,
+    "increaseAllCount" : 25,
+    "useCount" : 130,
+    "increaseUseCount" : 24,
+    "useRate" : 16,
+    "increaseUseRate" : 8,
+    "serviceArea" : 12882,
+    "modelAndCount" : null
+  } ],
+  "work" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "workCount" : 351,
+    "increaseWorkCount" : 58,
+    "operateTime" : 3215,
+    "increaseOperateTime" : 687,
+    "workArea" : 70698,
+    "workRange" : 29847
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "workCount" : 368,
+    "increaseWorkCount" : 68,
+    "operateTime" : 3489,
+    "increaseOperateTime" : 697,
+    "workArea" : 68498,
+    "workRange" : 26489
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "workCount" : 457,
+    "increaseWorkCount" : 78,
+    "operateTime" : 4357,
+    "increaseOperateTime" : 801,
+    "workArea" : 85914,
+    "workRange" : 33456
+  } ],
+  "monitorAircraft" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "aircraftCode" : "MV-¢ñ02",
+    "workCount" : 134,
+    "operateTime" : 1212,
+    "workArea" : 24986,
+    "workRange" : 8635
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "aircraftCode" : "MV-¢ñ03",
+    "workCount" : 135,
+    "operateTime" : 1242,
+    "workArea" : 24548,
+    "workRange" : 8357
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "aircraftCode" : "MV-¢ñ04",
+    "workCount" : 132,
+    "operateTime" : 1235,
+    "workArea" : 24489,
+    "workRange" : 8341
+  } ]
+}
+
+

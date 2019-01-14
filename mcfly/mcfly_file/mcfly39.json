@@ -1,0 +1,183 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/staff/getStaffAndBusinessCount
+{
+  "province" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "allPerson" : 378,
+    "businessPerson" : 174,
+    "increaseBusinessPerson" : 19,
+    "pesticidePerson" : 18,
+    "increasePesticidePerson" : 5,
+    "workPerson" : 186,
+    "increaseWorkPerson" : 20,
+    "rankListType" : "省"
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "allPerson" : 354,
+    "businessPerson" : 168,
+    "increaseBusinessPerson" : 18,
+    "pesticidePerson" : 16,
+    "increasePesticidePerson" : 4,
+    "workPerson" : 170,
+    "increaseWorkPerson" : 18,
+    "rankListType" : "省"
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "allPerson" : 394,
+    "businessPerson" : 180,
+    "increaseBusinessPerson" : 21,
+    "pesticidePerson" : 19,
+    "increasePesticidePerson" : 6,
+    "workPerson" : 195,
+    "increaseWorkPerson" : 23,
+    "rankListType" : "省"
+  } ],
+  "china" : [ {
+    "country" : "Whole country",
+    "latitude" : 41.141248,
+    "longitude" : 122.07322,
+    "allPerson" : 1126,
+    "businessPerson" : 512,
+    "increaseBusinessPerson" : 58,
+    "pesticidePerson" : 53,
+    "increasePesticidePerson" : 15,
+    "workPerson" : 551,
+    "increaseWorkPerson" : 61,
+    "rankListType" : "全国"
+  } ],
+  "business" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "servicerBusinessCount" : 318,
+    "increaseServicerBusinessCount" : 47,
+    "pesticideBusinessCount" : 86,
+    "increasePesticideBusinessCount" : 15,
+    "workBusinessCount" : 4271,
+    "increaseWorkBusinessCount" : 907
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "servicerBusinessCount" : 273,
+    "increaseServicerBusinessCount" : 43,
+    "pesticideBusinessCount" : 72,
+    "increasePesticideBusinessCount" : 13,
+    "workBusinessCount" : 3536,
+    "increaseWorkBusinessCount" : 778
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "servicerBusinessCount" : 358,
+    "increaseServicerBusinessCount" : 75,
+    "pesticideBusinessCount" : 99,
+    "increasePesticideBusinessCount" : 18,
+    "workBusinessCount" : 5075,
+    "increaseWorkBusinessCount" : 1073
+  } ],
+  "city" : [ {
+    "country" : "Suqian",
+    "latitude" : 33.95204973370865,
+    "longitude" : 118.29689337855334,
+    "allPerson" : 120,
+    "businessPerson" : 52,
+    "increaseBusinessPerson" : 8,
+    "pesticidePerson" : 6,
+    "increasePesticidePerson" : 2,
+    "workPerson" : 62,
+    "increaseWorkPerson" : 10,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Jinhua",
+    "latitude" : 29.10289910539069,
+    "longitude" : 119.65257570368145,
+    "allPerson" : 140,
+    "businessPerson" : 62,
+    "increaseBusinessPerson" : 8,
+    "pesticidePerson" : 8,
+    "increasePesticidePerson" : 2,
+    "workPerson" : 70,
+    "increaseWorkPerson" : 8,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Sihua",
+    "latitude" : 33.42595526613395,
+    "longitude" : 118.3125512525045,
+    "allPerson" : 124,
+    "businessPerson" : 56,
+    "increaseBusinessPerson" : 6,
+    "pesticidePerson" : 6,
+    "increasePesticidePerson" : 2,
+    "workPerson" : 62,
+    "increaseWorkPerson" : 8,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Jingzhou",
+    "latitude" : 30.396103360852894,
+    "longitude" : 112.09985718064648,
+    "allPerson" : 192,
+    "businessPerson" : 82,
+    "increaseBusinessPerson" : 8,
+    "pesticidePerson" : 10,
+    "increasePesticidePerson" : 4,
+    "workPerson" : 100,
+    "increaseWorkPerson" : 10,
+    "rankListType" : "城市"
+  }, {
+    "country" : "Panjin",
+    "latitude" : 41.14124802295616,
+    "longitude" : 122.07322781023007,
+    "allPerson" : 168,
+    "businessPerson" : 74,
+    "increaseBusinessPerson" : 8,
+    "pesticidePerson" : 8,
+    "increasePesticidePerson" : 2,
+    "workPerson" : 86,
+    "increaseWorkPerson" : 8,
+    "rankListType" : "城市"
+  } ],
+  "staffBusiness" : [ {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "name" : "Yongkang Pei",
+    "serviceArea" : 370,
+    "orderCount" : 27
+  }, {
+    "country" : "Jiangsu",
+    "latitude" : 33.013797,
+    "longitude" : 119.368489,
+    "name" : "Wensheng Liu",
+    "serviceArea" : 390,
+    "orderCount" : 30
+  }, {
+    "country" : "Liaoning",
+    "latitude" : 41.6216,
+    "longitude" : 122.753592,
+    "name" : "Fengqin Han",
+    "serviceArea" : 360,
+    "orderCount" : 26
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "name" : "Cui Ji",
+    "serviceArea" : 480,
+    "orderCount" : 35
+  }, {
+    "country" : "Hubei",
+    "latitude" : 31.209316,
+    "longitude" : 112.410562,
+    "name" : "Chunlei Zeng",
+    "serviceArea" : 430,
+    "orderCount" : 32
+  } ]
+}
+
+

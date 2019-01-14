@@ -1,0 +1,17 @@
+url: http://www.mcfly.com.cn/mcloud/api/v1/common/getAllProvince
+{
+  "message" : "查询成功",
+  "data" : [ {
+    "id" : "210000",
+    "name" : "辽宁省"
+  }, {
+    "id" : "320000",
+    "name" : "江苏省"
+  }, {
+    "id" : "420000",
+    "name" : "湖北省"
+  } ],
+  "code" : 10000
+}
+
+

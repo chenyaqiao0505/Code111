@@ -1,0 +1,17 @@
+{
+  "message" : "查询成功",
+  "data" : {
+    "totalAcreage" : 400.00,
+    "details" : [ {
+      "sowingMethod" : "transplant",
+      "cropType" : [ {
+        "id" : 4,
+        "name" : "大豆"
+      } ],
+      "acreage" : 400.00
+    } ]
+  },
+  "code" : 10000
+}
+
+
